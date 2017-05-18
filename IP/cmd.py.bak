@@ -13,7 +13,7 @@ def main():
     if not args.ip:
         return
 
-    print((find(args.ip)))
+    print(find(args.ip))
 
 
 if __name__ == '__main__':
